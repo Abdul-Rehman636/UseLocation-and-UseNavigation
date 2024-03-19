@@ -1,0 +1,20 @@
+#Nav-1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 10vh;
+}
+
+#Nav-2{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#Nav-Link{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
